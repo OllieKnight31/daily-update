@@ -1,0 +1,11 @@
+{
+  "your_name": "",
+  "recipient_name": "",
+  "recipient_contact": "",
+  "channel": "clipboard",
+  "send_command": "",
+  "mcp_tool": "",
+  "mcp_arguments": {},
+  "default_hours": 24,
+  "exclude_folders": []
+}
